@@ -1,6 +1,12 @@
-# ruby-abv - Always Be Vaultin'
+# abv - Always Be Vaultin'
 
-This is a small Ruby script that will allow you to easily decrypt vaulted variables in an Ansible Vault file. It reads a configured `vault_identity_list` from `ansible.cfg` to decrypt variables without needing to manually specify a vault identity.
+This is a set of scripts that will allow you to easily decrypt vaulted variables in an Ansible Vault file. It reads a configured `vault_identity_list` from `ansible.cfg` to decrypt variables without needing to manually specify a vault identity.
+
+# Rust 🦀
+
+_In progress._
+
+# Ruby
 
 ## Requirements
 
